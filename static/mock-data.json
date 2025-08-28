@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ruta económica Centro Histórico",
+    "categorias": [
+      "barato",
+      "cultura"
+    ],
+    "lugares": [
+      "Plaza de la Independencia",
+      "Catedral de Loja",
+      "Calle Lourdes"
+    ],
+    "precio_estimado": 5,
+    "imagen": "./static/img/placeholder.png",
+    "descripcion": "Recorrido a pie por el centro histórico con bajo presupuesto.",
+    "duracion_horas": 3,
+    "ciudad": "Loja"
+  },
+  {
+    "id": 2,
+    "nombre": "Ruta del Café en Vilcabamba",
+    "categorias": [
+      "café",
+      "naturaleza",
+      "medio"
+    ],
+    "lugares": [
+      "Finca Orgánica",
+      "Museo del Café",
+      "Mirador de Vilcabamba"
+    ],
+    "precio_estimado": 12,
+    "imagen": "./static/img/placeholder.png",
+    "descripcion": "Experiencia sensorial entre cafetales y catas.",
+    "duracion_horas": 5,
+    "ciudad": "Loja"
+  },
+  {
+    "id": 3,
+    "nombre": "Museos de Loja",
+    "categorias": [
+      "museos",
+      "cultura",
+      "barato"
+    ],
+    "lugares": [
+      "Museo de la Música",
+      "Museo Puerta de la Ciudad"
+    ],
+    "precio_estimado": 6,
+    "imagen": "./static/img/placeholder.png",
+    "descripcion": "Visita a los principales museos locales.",
+    "duracion_horas": 4,
+    "ciudad": "Loja"
+  },
+  {
+    "id": 4,
+    "nombre": "Naturaleza en el Podocarpus",
+    "categorias": [
+      "naturaleza",
+      "alto"
+    ],
+    "lugares": [
+      "Parque Nacional Podocarpus",
+      "Sendero Cajanuma"
+    ],
+    "precio_estimado": 28,
+    "imagen": "./static/img/placeholder.png",
+    "descripcion": "Caminata por uno de los parques más biodiversos.",
+    "duracion_horas": 8,
+    "ciudad": "Loja"
+  },
+  {
+    "id": 5,
+    "nombre": "Ruta Chill y Miradores",
+    "categorias": [
+      "tranqui",
+      "barato"
+    ],
+    "lugares": [
+      "Mirador El Churo",
+      "Bulevar Bernardo Valdivieso"
+    ],
+    "precio_estimado": 4,
+    "imagen": "./static/img/placeholder.png",
+    "descripcion": "Paseo relajado con vistas y zonas peatonales.",
+    "duracion_horas": 2,
+    "ciudad": "Loja"
+  },
+  {
+    "id": 6,
+    "nombre": "Gastronomía Lojana",
+    "categorias": [
+      "comida",
+      "medio"
+    ],
+    "lugares": [
+      "Mercado Central",
+      "Restaurante tradicional"
+    ],
+    "precio_estimado": 18,
+    "imagen": "./static/img/placeholder.png",
+    "descripcion": "Degustación de platos típicos lojanos.",
+    "duracion_horas": 4,
+    "ciudad": "Loja"
+  }
+]
